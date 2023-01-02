@@ -14,9 +14,9 @@ cover_image: https://media.discordapp.net/attachments/881969144814256200/1058197
 
 [Link!](https://www.google.com/)
 
-_italic_
+*italic*
 
-__bold__
+**bold**
 
 ***italic and bold***
 

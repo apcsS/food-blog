@@ -1,7 +1,0 @@
----
-date: 3-13-2023
-tags: Chinese, Fried
-cover_image: https://media.discordapp.net/attachments/881969144814256200/1058197786526498956/Screenshot_2022-12-29_at_5.40.09_PM.png
-
----
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce placerat diam at ultricies viverra. Morbi elementum iaculis tincidunt. Pellentesque auctor venenatis ante, et facilisis augue tempus ac. Donec semper justo in neque consequat dapibus. Morbi feugiat libero vitae nisl fringilla mollis. Fusce varius fermentum neque, vitae sagittis augue porta eu. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
